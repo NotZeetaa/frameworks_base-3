@@ -24,4 +24,8 @@
 
     <!-- Height of the faceunlock image view -->
     <dimen name="keyguard_face_unlock_margin_bottom">@dimen/keyguard_lock_height</dimen>
+
+    <!-- Network traffic -->
+    <dimen name="network_traffic_width">25sp</dimen>
+
 </resources>
